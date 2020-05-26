@@ -1,4 +1,4 @@
-# Python for Everybody Specialization
+# [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
 #### Course 1: [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
 
@@ -10,4 +10,3 @@
 
 #### Course 5: [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)
 
-![image](https://github.com/Andrew-Ng-s-number-one-fan/Python-for-Everybody-Specialization/blob/master/Certificates/PY4E%20-%20UMichigan.jpg)
