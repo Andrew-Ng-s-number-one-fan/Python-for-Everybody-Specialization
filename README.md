@@ -9,4 +9,3 @@
 #### Course 4: [Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
 
 #### Course 5: [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)
-
