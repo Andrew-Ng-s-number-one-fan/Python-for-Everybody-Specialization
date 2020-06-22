@@ -1,5 +1,5 @@
 # [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-A series of 5 courses offered by the University of Michigan
+<i>A series of 5 courses offered by the University of Michigan</i>
 
 #### Course 1: [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
 
